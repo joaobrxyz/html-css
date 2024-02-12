@@ -31,10 +31,10 @@ main {
 }
 .normal {
     background-color: white;
-    padding: 70px;
+    padding: 10vh;
     padding-left: 30px;
     font-size: 3.5vw;
-    line-height: 2;
+    line-height: 2em;
     text-align: justify;
 }
 .img {
@@ -64,4 +64,7 @@ footer a {
     color: white;
     font-style: italic;
     font-weight: bold;
+}
+a:hover {
+    text-decoration: underline;
 }
