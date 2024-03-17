@@ -30,12 +30,6 @@ header menu a {
 menu a:hover {
     background-color: gray;
 }
-/*header menu a {
-    display: inline-block;
-    background-color: #575757;
-    text-align: center;
-    padding: 10px;
-}*/
 #menu {
     background-color: rgb(48, 48, 48);
     display: block;
